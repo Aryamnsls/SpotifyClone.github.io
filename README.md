@@ -7,10 +7,11 @@ Main Features of the website clone:-
 
 This cloning website has not only the same features but also added with the new unique features. This helps designers who recently started their career to create a website without any need to write the script. Website clone helps you to save your time as it's clone scripts allows you to launch your website quickly.
 
+
 FEATURES:- 
 
-1. EASY TO ACCESS IN OFFLINE MODE AlSO
-2. INCREASE AND DECREASE VOICE MODE 
+1. EASY TO ACCESS IN OFFLINE MODE.
+2. INCREASE AND DECREASE VOICE MODE.
 
 LANGUAGE USED:- 
 
